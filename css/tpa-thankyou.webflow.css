@@ -231,6 +231,7 @@ blockquote {
 
 .box.is--4 {
   z-index: 5;
+  display: none;
   margin-top: 9vh;
   margin-left: 68.3em;
   background-image: url('../images/Cole-Becker.JPG');
